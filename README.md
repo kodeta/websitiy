@@ -7,7 +7,7 @@ Fast Setup MTProto Service in CentOS and Ubuntu and Debian OS Server With Promot
 One Line of Command for Installing MTProxy on the Operating System of Ubuntu and Debian with the Promoted Channel
 
 ```bash
-apt-get install -y curl && curl -O https://raw.githubusercontent.com/ZarinNegah/MTProto-FastSetup/master/MTProto-FastSetup-UD.sh && bash MTProto-FastSetup-UD.sh
+apt-get install -y curl && curl -O https://raw.githubusercontent.com/kodeta/websitiy/master/MTProto-FastSetup-UD.sh && bash MTProto-FastSetup-UD.sh
 ```
 ( All Version Supported )
 
@@ -16,7 +16,7 @@ apt-get install -y curl && curl -O https://raw.githubusercontent.com/ZarinNegah/
 One Line of Command for Installing MTProxy on the Operating System of CentOS with the Promoted Channel
 
 ```bash
-yum install wget -y && wget -N --no-check-certificate https://raw.githubusercontent.com/ZarinNegah/MTProto-FastSetup/master/MTProto-FastSetup-C.sh && bash MTProto-FastSetup-C.sh
+yum install wget -y && wget -N --no-check-certificate https://raw.githubusercontent.com/kodeta/websitiy/master/MTProto-FastSetup-C.sh && bash MTProto-FastSetup-C.sh
 ```
 ( CentOs 7.X Supported )
 
@@ -24,7 +24,7 @@ yum install wget -y && wget -N --no-check-certificate https://raw.githubusercont
 ## UnInstall All Files and Service:
 
 ```bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/ZarinNegah/MTProto-FastSetup/master/UnInstall.sh && bash UnInstall.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/kodeta/websitiy/master/UnInstall.sh && bash UnInstall.sh
 ```
 - - -
 ## Channel Advertising:
