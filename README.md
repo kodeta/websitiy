@@ -1,7 +1,7 @@
 # MTProto-FastSetup
 Fast Setup MTProto Service in CentOS and Ubuntu and Debian OS Server With Promoted Channel
 - - -
-### Site: [FastSetup.MTProtoServer.](http://FastSetup.MTProtoServer.)
+### Site: [FastSetup.MTProtoServer.ir](http://FastSetup.MTProtoServer.ir)
 - - -
 ## Ubuntu and Debian : Copy the Command to Your VPS & Execute It:
 One Line of Command for Installing MTProxy on the Operating System of Ubuntu and Debian with the Promoted Channel
