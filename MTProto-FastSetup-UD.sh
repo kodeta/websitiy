@@ -121,13 +121,11 @@ cat << EOF > /etc/systemd/system/MTProxy.service
 [Unit]
 Description=MTProxy
 After=network.target
-
 [Service]
 Type=simple
 WorkingDirectory=/usr/local/bin/
 ExecStart=/usr/local/bin/mtproto-proxy -u nobody -p 64335 -H ${uport} -S ${SECRET} -P ${TAG} --aes-pwd /etc/proxy-secret /etc/proxy-multi.conf
 Restart=on-failure
-
 [Install]
 WantedBy=multi-user.target
 EOF
